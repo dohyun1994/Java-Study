@@ -2,7 +2,7 @@ package example;
 
 class MyMath3 {
 	
-	int add(int a, int b) {
+	static int add(int a, int b) {
 		System.out.print( "int add(int a, int b) - " );
 		return a+b;
 	}
