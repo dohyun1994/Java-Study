@@ -3,6 +3,7 @@ package practice_example;
 public class Ex4_13 {
 
 	public static void main(String[] args) {
+		
 		String value = "12o34";
 		char ch = ' ';
 		boolean isNumber = true;
