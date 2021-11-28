@@ -77,7 +77,7 @@ class Buyer4 {
 	}	
 }
 
-public class PolyArgumentTest2Ex7_22 {
+public class PolyArgumentTest3Ex7_23 {
 
 	public static void main(String[] args) {
 		Buyer4 b = new Buyer4();

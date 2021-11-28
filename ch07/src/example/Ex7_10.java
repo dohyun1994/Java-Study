@@ -2,10 +2,16 @@ package example;
 
 public class Ex7_10 {
 	public static void main(String[] args) {
-		Unit[] group = { new Marine(), new Tank(), new Dropship() };
+		Unit[] group = { new Marine(), new Tank(), new Dropship() };	// 객체배열 : 참조변수 묶은 것.
 
-		for (int i = 0; i < group.length; i++)
-			group[i].move(100, 200);
+//		for (int i = 0; i < group.length; i++)
+//			group[i].move(100, 200);
+		
+		// group의 타입은 Unit[], grouop[0], group[1], group[2]의 타입은 Unit
+		group[0].move(100, 200);	// Marine객체의 move(100, 200)을 호출
+		group[0].move(100, 200);	// Tank객체의 move(100, 200)을 호출
+		group[0].move(100, 200);	// Dropship객체의 move(100, 200)을 호출
+		
 	}
 }
 
