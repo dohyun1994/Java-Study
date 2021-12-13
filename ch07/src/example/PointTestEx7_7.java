@@ -23,7 +23,7 @@ class Point3D extends Point2 {
 //		this.y = y;
 		this.z = z;
 	}
-	
+	 
 	void getLocation() {
 		System.out.println("x :" + x + ", y :" + y + ", z :" + z);
 	

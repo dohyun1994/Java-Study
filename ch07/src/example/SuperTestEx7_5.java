@@ -10,6 +10,7 @@ class Child extends Parent {
 		System.out.println("x= " + x);
 		System.out.println("this.x= " + this.x);
 		System.out.println("super.x= " + super.x);		// super - 인스턴스 메서드(생성자)내에서만 존재. 조상의 멤버와 자신의 멤버를 구별할 때 사용.
+		
 	}
 }
 
