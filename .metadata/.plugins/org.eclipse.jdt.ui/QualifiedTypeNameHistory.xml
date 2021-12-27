@@ -7,4 +7,11 @@
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
     <fullyQualifiedTypeName name="java.util.Vector"/>
+    <fullyQualifiedTypeName name="example.InstanceManager"/>
+    <fullyQualifiedTypeName name="example.InnerEx1.InstanceInner"/>
+    <fullyQualifiedTypeName name="example.InnerEx2.Staticinner"/>
+    <fullyQualifiedTypeName name="example.Outer.InstanceInner"/>
+    <fullyQualifiedTypeName name="example.Outer.StaticInner"/>
+    <fullyQualifiedTypeName name="java.awt.Button"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionEvent"/>
 </qualifiedTypeNameHistroy>

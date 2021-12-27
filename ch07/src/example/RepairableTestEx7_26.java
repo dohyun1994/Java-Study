@@ -72,7 +72,6 @@ class SCV extends GroundUnit implements Repairable {
 	}
 }
 
-
 public class RepairableTestEx7_26 {
 
 	public static void main(String[] args) {
@@ -85,6 +84,5 @@ public class RepairableTestEx7_26 {
 		scv.repair(tank);
 		scv.repair(dropship2);
 //		scv.repair(marine2);
-
 	}
 }
